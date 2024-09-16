@@ -5,7 +5,7 @@
 		"parameters": {
 			"StorageWithSaSUrl": {
 				"type": "string",
-				"defaultValue": "webckptsasy01"
+				"defaultValue": "MylakeName"
 			}
 		},
 		"annotations": [],
