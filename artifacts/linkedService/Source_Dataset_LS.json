@@ -5,7 +5,7 @@
 		"parameters": {
 			"StorageWithSaSUrl": {
 				"type": "string",
-				"defaultValue": "MylakeName"
+				"defaultValue": "Synapse"
 			}
 		},
 		"annotations": [],
