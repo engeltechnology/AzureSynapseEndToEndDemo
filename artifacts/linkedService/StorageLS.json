@@ -4,7 +4,7 @@
 		"parameters": {
 			"StorageName": {
 				"type": "string",
-				"defaultValue": "webckptsasy01"
+				"defaultValue": "synapse"
 			}
 		},
 		"annotations": [],
